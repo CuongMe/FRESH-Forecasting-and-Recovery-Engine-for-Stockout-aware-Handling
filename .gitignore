@@ -1,0 +1,18 @@
+# Local data and generated reports
+data/
+reports/
+
+# Project-local agent skills
+.codex/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
